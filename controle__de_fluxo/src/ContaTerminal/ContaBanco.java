@@ -1,4 +1,4 @@
-package controle_de_fluxo;
+package ContaTerminal;
 
 import java.util.Scanner;
 import entities.ContaTerminal;
